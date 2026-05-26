@@ -1,5 +1,3 @@
-This file is a merged representation of the entire codebase, combined into a single document by Repomix.
-The content has been processed where security check has been disabled.
 
 # File Summary
 
