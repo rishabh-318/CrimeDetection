@@ -12,8 +12,8 @@ const Contact = () => {
             <button type='submit' className='py-2 bg-stone-700'>Submit</button>
         </form>
         <div className='py-5 text-center text-lg font-light'>
-            <h4>Email: shbhtsemwal@gmail.com</h4>
-            <h4>Phone: +916396430288</h4>
+            <h4>Email: rishu2nd@gmail.com</h4>
+            <h4>Phone: +919548832275</h4>
         </div>
     </section>
   )
